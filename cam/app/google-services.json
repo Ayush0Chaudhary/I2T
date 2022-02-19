@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "561198985777",
+    "project_id": "black-radius-341415",
+    "storage_bucket": "black-radius-341415.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561198985777:android:775e38ea1781b81006db10",
+        "android_client_info": {
+          "package_name": "com.example.cam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561198985777-08k4vqe9oba4fsnb4m43v7aar1ablglm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT9WAIoqIHhr4ozFYVx6b_FNjaAQyhfc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561198985777-08k4vqe9oba4fsnb4m43v7aar1ablglm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
